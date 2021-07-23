@@ -1,16 +1,19 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Oguadinma Nkiruka
+### Hi there, I'm ✨ Nkiruka ✨ 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> and a teacher! 
+- 🔭 I’m currently working on a JavaScript and React projects 🌱!
+- 💡 I love innovation and new technologies
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I'm changing the world one COMMIT at a time
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+-🖥️ Experienced in:
 
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+       Front-End: React | Redux-tulkit | HTML5 | CSS3 | Bootstrap | Javascript
+       Back-End: Ruby | RoR | PostgreSQL
 
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+### Connect with me:
+<p align='left'>
+<a href="https://www.linkedin.com/in/enkog/"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:nkirukaogu@gmail.com"><img height="30" src="https://github.com/amananku26/amananku26/blob/main/mail.png"></a>
+</p>
